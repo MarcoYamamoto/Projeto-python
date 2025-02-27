@@ -1,0 +1,18 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Comprar leite",
+            "description": "Comprar 2 litros de leite",
+            "completed": false,
+            "due_date": "2025-02-27"
+        },
+        {
+            "id": 2,
+            "title": "Estudar Python",
+            "description": "Estudar módulos de manipulação de arquivos",
+            "completed": true,
+            "due_date": "2025-02-26"
+        }
+    ]
+}
